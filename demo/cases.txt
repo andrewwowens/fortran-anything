@@ -1,0 +1,24 @@
+# One case per line: the arguments to append to the command.
+1
+4
+9
+14
+40
+90
+400
+1994
+2024
+3999
+0007
+0
+4000
+99999999999999999999
+XIV
+mcmxciv
+MMMCMXCIX
+IIII
+VX
+hello
+""
+one two
+< /dev/null
